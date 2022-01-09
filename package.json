@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/NoxSiren/teamProfileGenerator/issues"
   },
-  "homepage": "https://github.com/NoxSiren/teamProfileGenerator#readme"
+  "homepage": "https://github.com/NoxSiren/teamProfileGenerator#readme",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
 }
